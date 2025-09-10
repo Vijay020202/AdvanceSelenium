@@ -18,11 +18,13 @@ public class ifelse {
 		}
 			else {
 				System.out.println("its negative");
+				System.out.println("its negative");
 			}	
 			
 		}
 		
 
 	}
+
 
 
